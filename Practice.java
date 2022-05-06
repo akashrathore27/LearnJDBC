@@ -2,6 +2,7 @@ package com.company;
 
 import java.util.*; class Practice
 {
+    //isPrime method for the check the number  is prime or not
     public static boolean isPrime(int num) {
         int c=0;
         for (int i = 1; i <= num; i++) {
